@@ -35,3 +35,10 @@ This project uses machine learning to predict cryptocurrency market volatility u
 ├── README.md                       # This file
 ├── requirements.txt                # Python dependencies
 
+python crypto_volatility_model.py train
+
+streamlit run crypto_volatility_model.py
+
+✅ Output
+Predicted volatility chart
+
